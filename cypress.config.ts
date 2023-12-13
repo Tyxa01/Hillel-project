@@ -5,7 +5,7 @@ export default defineConfig({
     setupNodeEvents(on, config) {
       
     },
-    baseUrl: "http://localhost:4200/pages",
+    baseUrl: "https://qauto.forstudy.space/",
     specPattern: "cypress/e2e/**/*.spec.{js,jsx,ts,tsx}",
   },
   video: false,
