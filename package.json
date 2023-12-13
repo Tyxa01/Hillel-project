@@ -5,7 +5,6 @@
   "dependencies": {
     "@cypress/browserify-preprocessor": "^3.0.2",
     "eslint-plugin-cypress": "^2.15.1",
-    "save-dev": "^0.0.1-security"
   },
   "type": "module"
 }
